@@ -1,0 +1,7 @@
+allowBuilds:
+  '@openrouter/sdk': true
+  esbuild: true
+  protobufjs: true
+  unrs-resolver: true
+minimumReleaseAgeExclude:
+  - lucide-react@1.34.0
